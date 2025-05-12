@@ -1,0 +1,14 @@
+opencv-python==4.9.0.80
+dlib==19.24.2
+imutils==0.5.4
+matplotlib==3.10.1
+numpy==2.2.4
+packaging==24.2
+pandas==2.2.3
+pillow==11.1.0
+python-dateutil==2.9.0.post0
+scikit-learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
+wheel==0.45.1
+winsound; platform_system == "Windows"
